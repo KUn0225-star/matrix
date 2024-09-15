@@ -1,5 +1,7 @@
-#include "stdlib.h"
-#include "stdio.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include "solve.h"
+#include "init_mat.h"
 int main() {
 	    int n, m;
 	        double step;
